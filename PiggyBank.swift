@@ -7,5 +7,5 @@ var soles: Double = 400  //conversion 0.26 USD
 
 //what we are trying to find in US dollars
 var total: Double = 0
-total = 0.052 * 15.56 + 0.19 * 100.56 + 0.26 * 400
+total = 0.052 * pesos + 0.19 * reais + 0.26 * soles
 print("US Dollars = $\(total)")
