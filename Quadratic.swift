@@ -1,3 +1,6 @@
+// Solving the quadratic forumla 
+// Cam Tomlin
+
 var a: Double = 3
 var b: Double = -11
 var c: Double = -4
